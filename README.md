@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chethana</h1>
 <h3 align="center">A passionate frontend & aspiring full-stack developer I love building interactive web applications and learning new technologies 🚀</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chethana45&label=Profile%20views&color=0e75b6&style=flat" alt="chethana45" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chethana45&label=Profile%20views&color=0e75b6&style=flat" alt="Chethana45" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chethana45" alt="chethana45" /></a> </p>
 
