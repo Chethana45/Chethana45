@@ -2,9 +2,8 @@
 <h3 align="center">Computer Science Student @ MIT, Anna University | Full Stack Developer | DSA Enthusiast</h3>
 
 <p align="center">
-  <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="700"/>
+  <img src="https://media.tenor.com/rePDfDWO3XoAAAAC/hacking.gif" width="700"/>
 </p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Chethana45&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 </p>
