@@ -121,7 +121,7 @@ Full Stack Developer • DSA Enthusiast • Tech Explorer 🚀
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Chethana45/Chethana45/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2U4aW9xOWQ0MjV5ZXI5aWFkNnI3b2ZrM3R4b2g4cTBjZmF4Y2R6eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlBO7eyXzSZkJri/giphy.gif" width="900">
 </p>
 
 # 🏆 GitHub Trophies
