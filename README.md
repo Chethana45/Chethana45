@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science Student @ MIT, Anna University | Full Stack Developer | DSA Enthusiast</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500"/>
+  <img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="700"/>
 </p>
 
 <p align="center">
