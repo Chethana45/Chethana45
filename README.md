@@ -1,44 +1,49 @@
 <h1 align="center">Hi 👋, I'm Chethana Sri</h1>
-<h3 align="center">Computer Science Student @ MIT, Anna University | Full Stack Developer | DSA Enthusiast</h3>
+
+<h3 align="center">
+Computer Science Student at Madras Institute of Technology (MIT), Anna University <br>
+Full Stack Developer • DSA Enthusiast • Tech Explorer 🚀
+</h3>
 
 <p align="center">
-  <img src="https://media.tenor.com/rePDfDWO3XoAAAAC/hacking.gif" width="700"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-8a3c3d3c-0df0-4fd5-b4b5-6dca6fcb8e08.gif" width="700"/>
 </p>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Chethana45&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Chethana45&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 
 # 💫 About Me
 
-🚀 Currently working on improving my Full Stack Development skills and building scalable web applications
+🔭 I’m currently working on improving my Full Stack Development skills and building scalable web applications
 
-🤝 Looking to collaborate on Open Source and MERN Stack projects
+🤝 I’m looking to collaborate on MERN Stack and Open Source Projects
 
-🫱🏻‍🫲🏻 Looking for help with Backend Architecture and System Design
+🫱🏻‍🫲🏻 I’m looking for help with Advanced Backend Development and System Design
 
-🌱 Currently learning DSA, TypeScript, React.js, Node.js, Machine Learning
+🌱 I’m currently learning Data Structures & Algorithms, Machine Learning, TypeScript, React, Node.js, and Backend Development
 
-💬 Ask me about Java, C, C++, JavaScript, SQL, MERN Stack, Git & GitHub
+💬 Ask me about Java, C, C++, JavaScript, SQL, React, Node.js, MongoDB, and Full Stack Development
 
-⚡ Fun fact: I love building projects more than watching tutorials
+⚡ Fun fact: I enjoy building projects more than watching tutorials 😄
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="center">
-<a href="https://www.linkedin.com/in/chethana-sri-4a0936398/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<p align="left">
+<a href="https://www.linkedin.com/in/chethana-sri-4a0936398/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:chethanasriadusumalli@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Chethana45">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white"/>
 </a>
 </p>
 
@@ -46,33 +51,46 @@
 
 # 💻 Tech Stack
 
-### Languages
+### Programming Languages
+
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 ### Frontend
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Backend
+
 ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=61DAFB)
 
 ### Databases
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+### Machine Learning
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-FFFFFF?style=for-the-badge&logo=plotly&logoColor=black)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 ---
 
@@ -92,26 +110,58 @@
 
 ---
 
-# 🐍 Contribution Snake
+# 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Chethana45/Chethana45/output/github-contribution-grid-snake.svg" />
+<img src="https://github-profile-trophy.vercel.app/?username=Chethana45&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Chethana45&theme=algolia&no-frame=true&row=1&column=7" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Chethana45&theme=tokyo-night" />
 </p>
 
 ---
 
 # ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
 
 ---
 
-### 🌟 Dream Big • Build Bigger • Code Harder 🌟
+# 🔝 Top Contributed Repositories
+
+<p align="center">
+<img src="https://github-contributor-stats.vercel.app/api?username=Chethana45&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+</p>
+
+---
+
+# 🎯 Current Goals
+
+✨ Solve DSA problems consistently
+
+✨ Strengthen Full Stack Development skills
+
+✨ Contribute to Open Source Projects
+
+✨ Learn Machine Learning fundamentals
+
+✨ Build impactful real-world applications
+
+---
+
+### 💭 Favorite Quote
+
+> "Consistency beats intensity when intensity is not consistent."
+
+---
+
+<p align="center">
+✨ Thanks for visiting my profile! Let's connect and grow together 🚀
+</p>
