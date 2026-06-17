@@ -6,7 +6,7 @@ Full Stack Developer • DSA Enthusiast • Tech Explorer 🚀
 </h3>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212897782-96581576-8f41-4d1c-9b3b-4b2d5f7b5d59.gif" width="700"/>
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="500"/>
 </p>
 
 <p align="center">
@@ -118,6 +118,11 @@ Full Stack Developer • DSA Enthusiast • Tech Explorer 🚀
 </p>
 
 ---
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Chethana45/Chethana45/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
 
 # 🏆 GitHub Trophies
 
