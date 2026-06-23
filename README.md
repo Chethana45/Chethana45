@@ -10,9 +10,8 @@ I created this GitHub profile to learn, build and share projects that make a dif
 
 💫 Feel free to explore my repositories and connect with me!
 
-<p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250">
-</p>
+
+<img width="164" height="172" alt="image" src="https://github.com/user-attachments/assets/c7881d15-b444-4c3c-a706-f18bc51016d6" />
 
 Thanks for visiting my profile! 💖
 
