@@ -1,22 +1,35 @@
+<div align="center">
+
 # 👋 Hello!
 
-I'm **Chethana Sri** 🌸
+# I'm Chethana Sri 🌸
 
-💻 CSE Student @ MIT  
-🤖 AI Enthusiast  
-📚 DSA Learner  
-☕ Turning ideas into projects
+💻 Computer Science Student
 
-⭐ Feel free to follow me — I'd really appreciate your support!
+🤖 AI Enthusiast
+
+📚 DSA Learner
+
+✨ Learning something new every day
+
+💫 Turning ideas into projects
+
+</div>
 
 <p align="center">
-  <img src="https://media.tenor.com/mGif4zrm9tsAAAAC/cat-computer.gif" width="250">
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250">
 </p>
 
-Thank you for visiting my profile! 💖
+<div align="center">
+
+Thanks for visiting my profile! 💖
+
+</div>
 
 ---
 
 ## 🔥 GitHub Streak
 
-<img src="https://streak-stats.demolab.com?user=Chethana45&theme=rose_pine&hide_border=true" />
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Chethana45&theme=tokyonight&hide_border=true" />
+</p>
