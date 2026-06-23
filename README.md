@@ -11,7 +11,7 @@ I created this GitHub profile to learn, build and share projects that make a dif
 💫 Feel free to explore my repositories and connect with me!
 
 <p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2M4dGlyMm5ubGVwMWJ5d3J4cXFtNWhsN3FkOG9hMGxkY2dkOHQ5YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lJNoBCvQYp7nq/giphy.gif" width="250">
 </p>
 
 Thanks for visiting my profile! 💖
