@@ -1,4 +1,5 @@
-<img width="1122" height="1402" alt="image" src="https://github.com/user-attachments/assets/7f8590ea-96f2-4a6b-9e3f-0cc065c30dce" />
+<img width="346" height="422" alt="image" src="https://github.com/user-attachments/assets/596c2b71-9c17-42f3-9e5f-3aec0926cde7" />
+
 
 
  🔥 GitHub Streak
