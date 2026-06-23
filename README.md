@@ -2,7 +2,15 @@
 
 
 
+<div align="center">
 
+### 🌸 Connect With Me 🌸
+
+📧 Email: <a href="mailto:chethanasriadusumalli@gmail.com">chethanasriadusumalli@gmail.com</a>
+
+💼 LinkedIn: <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">Chethana Sri</a>
+
+</div>
 
 
  🔥 GitHub Streak
