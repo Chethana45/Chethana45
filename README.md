@@ -14,9 +14,7 @@
 
 
  🔥 GitHub Streak
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Chethana45&theme=rose_pine&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Chethana45&theme=rose_pine&hide_border=true&v=2" />
 </p>
-
 
