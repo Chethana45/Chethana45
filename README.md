@@ -21,6 +21,6 @@
 ## 🌸 GitHub Stats 🌸
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Chethana45&theme=radical"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Chethana45&theme=radical" />
 </p>
 
