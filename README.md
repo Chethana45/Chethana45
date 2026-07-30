@@ -21,7 +21,11 @@
 ## 🌸 GitHub Stats 🌸
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Chethana45&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chethana45&theme=radical"/>
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Chethana45&theme=radical"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Chethana45&theme=radical&utcOffset=5.5"/>
+</p>
 
