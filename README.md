@@ -18,9 +18,5 @@
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chethana45&theme=rose_pine"/>
 </p>
 
-## 🌸 GitHub Stats 🌸
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Chethana45&theme=radical" />
-</p>
 
