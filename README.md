@@ -24,11 +24,9 @@
 
 <img 
 height="180em" 
-src="https://github-readme-stats-sigma-five.vercel.app/api?username=Chethana45&show_icons=true&theme=rose_pine&hide_border=true&include_all_commits=true&count_private=true"/>
+src="https://github-readme-stats-sigma-five.vercel.app/api?username=Chethana45&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img 
-height="180em" 
-src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Chethana45&layout=compact&langs_count=8&theme=rose_pine&hide_border=true"/>
+
 
 </p>
 
