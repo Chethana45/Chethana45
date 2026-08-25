@@ -18,15 +18,16 @@
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chethana45&theme=rose_pine"/>
 </p>
 
-# 🌸 GitHub Stats 🌸
+
+## 🌸 GitHub Stats 🌸
 
 <p align="center">
-
-<img 
-height="180em" 
-<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=Chethana45&show_icons=true&theme=rose_pine&hide_border=true&include_all_commits=true&count_private=true"/>
-
-
-
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=Chethana45&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"
+  />
 </p>
+
+
+
 
