@@ -13,19 +13,16 @@
 </div>
 
 
- 🔥 GitHub Streak
+## 🔥 GitHub Streak
+
 <p align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chethana45&theme=rose_pine"/>
+  <img src="https://streak-stats.demolab.com?user=Chethana45&theme=rose_pine" />
 </p>
 
-
-## 🌸 GitHub Stats 🌸
+## 🌸 GitHub Stats
 
 <p align="center">
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=Chethana45&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Chethana45&show_icons=true&theme=radical&hide_border=true" />
 </p>
 
 
