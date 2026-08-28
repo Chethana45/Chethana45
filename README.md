@@ -45,30 +45,29 @@
 
 <div align="center">
 
-## 🌷 Skills & Tech
+## 🌷 Skills & Technologies
 
-### 💻 Languages
-
-<img src="https://skillicons.dev/icons?i=cpp,java,python,c&theme=dark" />
-
-<br><br>
-
-### 🧩 Core Skills
-
-`Data Structures & Algorithms` · `Problem Solving` · `OOP` · `STL`  
-`Arrays` · `Strings` · `Hashing` · `Stacks & Queues` · `Recursion`
+<img src="https://img.shields.io/badge/C-A8DADC?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-A8DADC?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-E9A6C9?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-E9A6C9?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/DSA-D8B4E2?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Full%20Stack-EBBCBA?style=for-the-badge&logo=stackshare&logoColor=white"/>
 
 <br><br>
 
-### 🛠️ Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+<img src="https://img.shields.io/badge/SQL-C9B6E4?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-E9A6C9?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-9CCFD8?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/ML-D8B4E2?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-A8DADC?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-E9A6C9?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-EBBCBA?style=for-the-badge&logo=plotly&logoColor=white"/>
 
 <br><br>
 
-### 🤖 Exploring
-
-`Artificial Intelligence` · `Machine Learning` · `Projects` · `GitHub`
+<img src="https://img.shields.io/badge/Git-EBBCBA?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-191724?style=for-the-badge&logo=github&logoColor=E9A6C9"/>
 
 </div>
 
