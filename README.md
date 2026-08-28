@@ -89,7 +89,9 @@
 
 <div align="center">
 
-<div align="center"> ### 🌸 Connect With Me 🌸 📧 Email: <a href="mailto:chethanasriadusumalli@gmail.com">chethanasriadusumalli@gmail.com</a> 💼 LinkedIn: <a href="https://www.linkedin.com/in/chethana-sri-4a0936398/">Chethana Sri</a> </div>
+<div align="center"> ### 🌸 Connect With Me 🌸
+  📧 Email: <a href="mailto:chethanasriadusumalli@gmail.com">chethanasriadusumalli@gmail.com</a> 
+  💼 LinkedIn: <a href="https://www.linkedin.com/in/chethana-sri-4a0936398/">Chethana Sri</a> </div>
 
 🌷 *still learning, still building, still figuring things out* 🌷
 
