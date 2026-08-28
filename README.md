@@ -45,13 +45,32 @@
 
 <div align="center">
 
-## 🌷 Languages & Tools
+## 🌷 Skills & Tech
 
-<img src="https://skillicons.dev/icons?i=cpp,java,python,c,git,github,vscode&theme=dark">
+### 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=cpp,java,python,c&theme=dark" />
+
+<br><br>
+
+### 🧩 Core Skills
+
+`Data Structures & Algorithms` · `Problem Solving` · `OOP` · `STL`  
+`Arrays` · `Strings` · `Hashing` · `Stacks & Queues` · `Recursion`
+
+<br><br>
+
+### 🛠️ Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+
+<br><br>
+
+### 🤖 Exploring
+
+`Artificial Intelligence` · `Machine Learning` · `Projects` · `GitHub`
 
 </div>
-
----
 
 <div align="center">
 
