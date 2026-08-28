@@ -51,6 +51,9 @@
 <img src="https://img.shields.io/badge/Java-E9A6C9?style=for-the-badge&logo=openjdk&logoColor=white"/>
 <img src="https://img.shields.io/badge/DSA-D8B4E2?style=for-the-badge&logo=leetcode&logoColor=white"/>
 <img src="https://img.shields.io/badge/Full%20Stack-EBBCBA?style=for-the-badge&logo=stackshare&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-EBBCBA?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-191724?style=for-the-badge&logo=github&logoColor=E9A6C9"/>
+
 
 <br><br>
 
@@ -62,10 +65,7 @@
 <img src="https://img.shields.io/badge/Pandas-E9A6C9?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/Matplotlib-EBBCBA?style=for-the-badge&logo=plotly&logoColor=white"/>
 
-<br><br>
 
-<img src="https://img.shields.io/badge/Git-EBBCBA?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-191724?style=for-the-badge&logo=github&logoColor=E9A6C9"/>
 
 </div>
 
