@@ -43,31 +43,33 @@
 
 ---
 
+
+
 <div align="center">
 
-## 🌷 Skills & Technologies
+## 🌷 Skills
 
-<img src="https://img.shields.io/badge/C-A8DADC?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-A8DADC?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-E9A6C9?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-E9A6C9?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/DSA-D8B4E2?style=for-the-badge&logo=leetcode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Full%20Stack-EBBCBA?style=for-the-badge&logo=stackshare&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8DADC?style=flat-square&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-A8DADC?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-E9A6C9?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-E9A6C9?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/DSA-D8B4E2?style=flat-square&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Full%20Stack-EBBCBA?style=flat-square&logo=stackshare&logoColor=white"/>
 
-<br><br>
+<br>
 
-<img src="https://img.shields.io/badge/SQL-C9B6E4?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-E9A6C9?style=for-the-badge&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-9CCFD8?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/ML-D8B4E2?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-A8DADC?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-E9A6C9?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-EBBCBA?style=for-the-badge&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-C9B6E4?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-E9A6C9?style=flat-square&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-9CCFD8?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/ML-D8B4E2?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-A8DADC?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-E9A6C9?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-EBBCBA?style=flat-square&logo=matplotlib&logoColor=white"/>
 
-<br><br>
+<br>
 
-<img src="https://img.shields.io/badge/Git-EBBCBA?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-191724?style=for-the-badge&logo=github&logoColor=E9A6C9"/>
+<img src="https://img.shields.io/badge/Git-EBBCBA?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-191724?style=flat-square&logo=github&logoColor=E9A6C9"/>
 
 </div>
 
