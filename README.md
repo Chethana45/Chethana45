@@ -70,9 +70,10 @@
 </div>
 
 ---
-<p align="center">
-## 🐾 GitHub Stats
+<div align="center">
 
+# 🐾 GitHub Stats
+<p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Chethana45&show_icons=true&theme=rose_pine&hide_border=true" />
 
@@ -80,8 +81,9 @@
 
 <img src="https://streak-stats.demolab.com?user=Chethana45&theme=rose_pine&hide_border=true" />
 
-</p>
 
+</p>
+<div>
 ---
 
 
