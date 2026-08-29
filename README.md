@@ -70,18 +70,17 @@
 </div>
 
 ---
-
-<div align="center">
-
+<p align="center">
 ## 🐾 GitHub Stats
 
-<img src="https://streak-stats.demolab.com?user=Chethana45&theme=rose_pine&hide_border=true&background=191724&ring=eb6f92&fire=eb6f92&currStreakLabel=eb6f92">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Chethana45&show_icons=true&theme=rose_pine&hide_border=true" />
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Chethana45&show_icons=true&theme=rose_pine&hide_border=true&bg_color=191724&title_color=eb6f92&icon_color=eb6f92">
+<img src="https://streak-stats.demolab.com?user=Chethana45&theme=rose_pine&hide_border=true" />
 
-</div>
+</p>
 
 ---
 
