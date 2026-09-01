@@ -1,9 +1,9 @@
+
 <div align="center">
 
 # 🌸 Hey, I'm Chethana Sri 🌸
 
 ### CSE Student • AI Enthusiast • DSA Learner
-
 
 
 🌷 learning • building • debugging • growing 🌷
