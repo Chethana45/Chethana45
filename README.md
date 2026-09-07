@@ -73,6 +73,23 @@
 <div align="center">
 
 # 🐾 GitHub Stats
+
+<div align="center">
+<table>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Md-Salih&theme=radical" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Md-Salih&theme=radical"/>
+    </td>
+  </tr>
+</table>
+</div>
+
+<p align="center">
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Md-Salih&theme=radical" />
+</p>
 <p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Chethana45&show_icons=true&theme=rose_pine&hide_border=true" />
