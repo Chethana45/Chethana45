@@ -78,17 +78,17 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Md-Salih&theme=radical" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Chethana45&theme=rose_pine" />
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Md-Salih&theme=radical"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Chethana45&theme=rose_pine"/>
     </td>
   </tr>
 </table>
 </div>
 
 <p align="center">
-   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Md-Salih&theme=radical" />
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rose_pine&theme=radical" />
 </p>
 <p align="center">
 
