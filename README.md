@@ -88,7 +88,7 @@
 </div>
 
 <p align="center">
-   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rose_pine&theme=radical" />
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chethana45&theme=rose_pine" />
 </p>
 <p align="center">
 
