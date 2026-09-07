@@ -87,9 +87,7 @@
 </table>
 </div>
 
-<p align="center">
-   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Chethana45&theme=rose_pine" />
-</p>
+
 <p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Chethana45&show_icons=true&theme=rose_pine&hide_border=true" />
