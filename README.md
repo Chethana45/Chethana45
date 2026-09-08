@@ -96,9 +96,6 @@
 
 <br><br>
 
-### 🎀 GitHub Profile Grade
-
-<img src="https://github-readme-stats.vercel.app/api?username=Chethana45&show_icons=true&theme=rose_pine&hide_border=true"/>
 
 </div>
 
