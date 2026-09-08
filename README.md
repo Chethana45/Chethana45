@@ -79,7 +79,7 @@
   <tr>
     <td>
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Chethana45&theme=rose_pine" />
-      ![](https://github-readme-stats.shion.dev/api?username=Chethana45&theme=rose-pine&hide_border=false&include_all_commits=true&count_private=true)<br/>
+  
 
     </td>
     
