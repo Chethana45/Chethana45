@@ -4,69 +4,114 @@
 
 ### CSE Student • AI Enthusiast • DSA Learner
 
-*learning • building • debugging • growing*
+🌷 *learning • building • debugging • growing* 🌷
 
 </div>
 
 ---
 
-## 🌷 About Me
+<div align="center">
 
-💻 Computer Science student at **Madras Institute of Technology (MIT)**  
-🤖 Curious about **Artificial Intelligence, Machine Learning & Software Development**  
-🧩 Currently strengthening my **Data Structures & Algorithms** skills  
-🌱 I enjoy learning by **solving problems, experimenting with ideas, and building things**  
-☕ Most of my learning process involves a lot of debugging — and eventually figuring it out
+## 🌸 About Me
 
-I believe in understanding **why** something works rather than simply
-memorizing **how** it works. I'm continuously exploring new areas of
-computer science and trying to become a better problem solver one step
-at a time.
+💻 Computer Science student @ MIT
+🤖 Interested in Artificial Intelligence
+🧩 Currently learning Data Structures & Algorithms
+🌱 Learning by solving problems and building projects
+☕ Debugging is basically part of the process
+
+</div>
 
 ---
+
+<div align="center">
 
 ## 🎀 My Coding Journey
 
-<div align="center">
-
-| 🌱 Learning | 💻 Practicing | 🚀 Exploring |
-|:---:|:---:|:---:|
-| Data Structures & Algorithms | LeetCode | Artificial Intelligence |
-| Machine Learning | Problem Solving | Full-Stack Development |
-| Computer Science Fundamentals | Git & GitHub | New Technologies |
+|   🧩 LeetCode   |   🔥 GitHub   | 🌱 Current Focus |
+| :-------------: | :-----------: | :--------------: |
+|     **200+**    |  **100 Days** |      **DSA**     |
+| Problems Solved | Coding Streak |     Learning     |
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+<div align="center">
+
+## 🌷 Skills & Technologies
+
+### 💻 Programming
+
+<img src="https://img.shields.io/badge/C-A8DADC?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-A8DADC?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-E9A6C9?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-E9A6C9?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-C9B6E4?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+### 🧠 AI & Data
+
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-D8B4E2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ML-D8B4E2?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-A8DADC?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-E9A6C9?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-EBBCBA?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+
+### 🌐 Development & Tools
+
+<img src="https://img.shields.io/badge/DSA-D8B4E2?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/Full%20Stack-EBBCBA?style=for-the-badge&logo=stackshare&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-E9A6C9?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express-9CCFD8?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-EBBCBA?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-191724?style=for-the-badge&logo=github&logoColor=E9A6C9"/>
+
+</div>
+
+---
 
 <div align="center">
 
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=Chethana45&show_icons=true&hide_border=true&rank_icon=github&title_color=e68bb5&icon_color=e68bb5&text_color=555555&bg_color=fffafd"/>
+# 🐾 GitHub Stats
 
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chethana45&layout=compact&hide_border=true&title_color=e68bb5&text_color=555555&bg_color=fffafd"/>
+<table>
+<tr>
 
-</div>
+<td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Chethana45&theme=rose_pine"/>
+</td>
+
+<td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Chethana45&theme=rose_pine"/>
+</td>
+
+</tr>
+</table>
 
 <br>
 
-<div align="center">
+<img src="https://streak-stats.demolab.com?user=Chethana45&theme=rose_pine&hide_border=true"/>
 
-<img width="650"
-src="https://streak-stats.demolab.com?user=Chethana45&hide_border=true&background=fffafd&ring=e68bb5&fire=e68bb5&currStreakLabel=e68bb5&sideLabels=555555&currStreakNum=555555&sideNums=555555&dates=888888"/>
+<br><br>
 
 </div>
 
 ---
 
-## 🧠 A Few Things I'm Working On
+<div align="center">
 
-```text
-DSA                  → solving problems consistently
-AI / ML              → learning the fundamentals
-Software Development → building & experimenting
-Computer Science     → strengthening the basics
-GitHub               → documenting the journey
+## 🌸 Connect With Me 🌸
+
+📧 **Email:** <a href="mailto:chethanasriadusumalli@gmail.com">
+[chethanasriadusumalli@gmail.com](mailto:chethanasriadusumalli@gmail.com) </a>
+
+<br><br>
+
+💼 **LinkedIn:** <a href="https://www.linkedin.com/in/chethana-sri-4a0936398/">
+Chethana Sri </a>
+
+<br><br>
+
+🌷 *still learning, still building, still figuring things out* 🌷
+
+</div>
