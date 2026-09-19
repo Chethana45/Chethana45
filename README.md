@@ -14,11 +14,11 @@
 
 ## 🌸 About Me
 
-💻 Computer Science student @ MIT
-🤖 Interested in Artificial Intelligence
-🧩 Currently learning Data Structures & Algorithms
-🌱 Learning by solving problems and building projects
-☕ Debugging is basically part of the process
+💻 Computer Science student @ MIT <br>
+🤖 Interested in Artificial Intelligence <br>
+🧩 Currently learning Data Structures & Algorithms <br>
+🌱 Learning by solving problems and building projects <br>
+☕ Debugging is basically part of the process <br>
 
 </div>
 
