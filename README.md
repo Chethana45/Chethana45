@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌸 Hey, I'm Chethana Sri 🌸
+# 🌸 Hey, I'm Chethanaaaa🌸
 
 ### CSE Student • AI Enthusiast • DSA Learner
 
