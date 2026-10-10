@@ -76,15 +76,6 @@
 # 🐾 GitHub Stats
 <div align="center">
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Chethana45&show_icons=true&count_private=true&theme=transparent&bg_color=0d0d1a&title_color=a78bfa&text_color=c4b5fd&icon_color=7c3aed&border_color=3b1f6e" />
-
-<br/>
-
-
-
-
 <table>
 <tr>
 
