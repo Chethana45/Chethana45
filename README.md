@@ -31,7 +31,7 @@
 
 |   🧩 LeetCode   |   🔥 GitHub   | 🌱 Current Focus |
 | :-------------: | :-----------: | :--------------: |
-|     **200+**    |  **100 Days** |      **DSA**     |
+|     **300+**    |  **170 Days** |      **DSA**     |
 | Problems Solved | Coding Streak |     Learning     |
 
 </div>
