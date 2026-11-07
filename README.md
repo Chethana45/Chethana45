@@ -120,9 +120,6 @@ I'm curious about technology and love turning ideas into projects. I enjoy explo
 
 <br/><br/>
 
-### 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=Chethana45&theme=juicyfresh&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies" />
 
 </div>
 
