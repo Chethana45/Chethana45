@@ -120,11 +120,17 @@ I'm curious about technology and love turning ideas into projects. I enjoy explo
 
 <br/><br/>
 <!-- GitHub Badges & Trophies -->
-  <details>
-    <summary><b>🏆 Click to Expand GitHub Achievements & Trophies</b></summary>
-    <br>
-    <img src="https://github-profile-trophy-zeta.vercel.app/?username=Chethana45&theme=flat&no-frame=true&margin-w=4" alt="GitHub Trophies" width="100%" />
-  </details>
+<details>
+  <summary><b>🏆 Click to Expand GitHub Achievements & Trophies</b></summary>
+  <br>
+
+  <img
+    src="https://github-profile-trophy-zeta.vercel.app/?username=Chethana45&theme=flat&no-frame=true&margin-w=4&title=MultiLanguage,LongTimeUser,Commits,Stars,Repositories,Followers,PullRequest"
+    alt="GitHub Trophies"
+    width="100%"
+  />
+
+</details>
 
 </div>
 
