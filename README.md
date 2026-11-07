@@ -40,7 +40,7 @@ I'm curious about technology and love turning ideas into projects. I enjoy explo
 
 | 🧩 LeetCode | 🔥 GitHub | 🌱 Current Focus |
 |:---:|:---:|:---:|
-| **300+** | **Consistent coding** | **DSA** |
+| **300+** | **190+** | **DSA** |
 | Problems Solved | Contribution streak | Learning |
 
 </div>
