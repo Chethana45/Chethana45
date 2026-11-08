@@ -11,7 +11,7 @@
 
 [![GitHub](https://img.shields.io/badge/GITHUB-CHETHANA45-D87093?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Chethana45)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-CHETHANA%20SRI-E8A0B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chethana-sri-4a0936398)
-[![Email](https://img.shields.io/badge/EMAIL-SAY%20HELLO-F4B6C8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chethanasriadusumalli@gmail.com)
+[![Email](https://img.shields.io/badge/EMAIL-chethanasriadusumalli@gmail.com-F4B6C8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chethanasriadusumalli@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Chethana45&label=profile%20visitors&color=DB7093&style=flat)
 
